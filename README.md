@@ -1,1 +1,1 @@
-# EDA-on-chipotle-datsw
+# EDA-on-chipotle-data
